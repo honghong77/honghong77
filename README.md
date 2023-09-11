@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yu%20Mihong&fontSize=90)
 
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <div align="center">
@@ -17,6 +16,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<a href="mailto:mihong812@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+<h3 align="center">🍀 Me 🍀</h3>
+<div align="center">
+	<a href="https://brief-tungsten-d99.notion.site/eff44ffc4388412bb3aa3b157c442ade?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+	<a href="mailto:mihong812@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</div>
 </p>
